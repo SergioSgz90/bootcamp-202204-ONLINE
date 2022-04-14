@@ -3,6 +3,6 @@
 
 [Ejercicio 1](./Week1/Exercise_1.md)
 
-[Ejercicio 2](./Week1/Exercise_1.md)
+[Ejercicio 2](./Week1/Exercise_2.md)
 
 [Challenge 1](./Week1/Challenge.md)
