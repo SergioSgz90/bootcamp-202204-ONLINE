@@ -5,8 +5,10 @@
 
 [Ejercicio 2](./Week1/Exercise_2.md)
 
-[Challenge 1](./Week1/Challenge.md)
+[Challenge](./Week1/Challenge.md)
 
 ## Week 2
 
 [Ejercicio 1. CV](./Week2/Exercise_cv.md)
+
+[Challenge](./Week2/Challenge/Readme.md)
