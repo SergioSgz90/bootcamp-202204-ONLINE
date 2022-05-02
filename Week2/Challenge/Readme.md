@@ -1,4 +1,4 @@
-# Week 2 - Challenge
+# Week 1 - Challenge 3
 ## Maquetación Pets
 
 Maqueta con HTML y CSS las capturas adjuntas (`mobile` y `desktop`), teniendo en cuenta las siguientes especificaciones:

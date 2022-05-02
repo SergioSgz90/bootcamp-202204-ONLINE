@@ -5,12 +5,18 @@
 
 [Ejercicio 2](./Week1/Exercise_2.md)
 
-[Challenge](./Week1/Challenge.md)
+[Challenge. Git & GitHub](./Week1/Challenge.md)
 
 ## Week 2
 
 [Ejercicio 1. CV](./Week2/Exercise_cv.md)
 
-[Challenge](./Week2/Challenge/Readme.md)
+[Challenge. Maquetación Pets](./Week2/Challenge/Readme.md)
 
 ## Week 3
+
+[Challenge. Panic Web](./Week3/challenge-weekend/readme.md)
+
+## Week 3
+
+[Challenge. StrictEquals Function](./Week4/Challenge.md)
